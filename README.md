@@ -1,2 +1,2 @@
 # Amplior
-An E-Mail App for reading and sending electronic mails.
+An e-mail app for reading and sending electronic mails.
